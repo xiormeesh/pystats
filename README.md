@@ -14,10 +14,19 @@ and sample solutions in Python for some of the problems
 
 ## Contents
 
-0. Basics of statistics
-1. Basics of probability theory
-2. Permutations and combinations
-3. [Random variables](Probability%20-%20Random%20variables.ipynb):
-    - binomial distribution
-    - normal distribution
-    - geometric distribution
+1. Analyzing categorical data
+2. Displaying and comparing quantitative data
+3. Summarizing quantitative data
+4. Modeling data distributions
+5. Exploring bivariate numerical data
+6. Study design
+7. Probability
+8. Counting, permutations, and combinations
+9. [Random variables](random_variables.ipynb):
+10. [Sampling distributions](sampling_distributions.ipynb)
+11. Confidence intervals
+12. Significance tests (hypothesis testing)
+13. Two-sample inference for the difference between groups
+14. Inference for categorical data (chi-square tests)
+15. Advanced regression (inference and transforming)
+16. Analysis of variance (ANOVA)
