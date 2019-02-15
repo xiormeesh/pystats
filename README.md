@@ -22,7 +22,7 @@ and sample solutions in Python for some of the problems
 6. Study design
 7. Probability
 8. Counting, permutations, and combinations
-9. [Random variables](random_variables.ipynb):
+9. [Random variables](random_variables.ipynb)
 10. [Sampling distributions](sampling_distributions.ipynb)
 11. Confidence intervals
 12. Significance tests (hypothesis testing)
