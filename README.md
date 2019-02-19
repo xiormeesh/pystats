@@ -29,3 +29,7 @@ The theory behind the calculations is not explained in the notebooks, however I'
 14. Inference for categorical data (chi-square tests)
 15. Advanced regression (inference and transforming)
 16. Analysis of variance (ANOVA)
+
+## License
+
+This project is licensed under the GPLv2 License - see the [LICENSE.md](LICENSE.md) file for details
