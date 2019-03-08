@@ -24,7 +24,7 @@ The theory behind the calculations is not explained in the notebooks, however I'
 9. [Random variables](random_variables.ipynb)
 10. [Sampling distributions](sampling_distributions.ipynb)
 11. [Confidence intervals](confidence_intervals.ipynb)
-12. Significance tests (hypothesis testing)
+12. [Significance tests (hypothesis testing)](significance_tests.ipynb)
 13. Two-sample inference for the difference between groups
 14. Inference for categorical data (chi-square tests)
 15. Advanced regression (inference and transforming)
