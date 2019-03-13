@@ -26,7 +26,7 @@ The theory behind the calculations is not explained in the notebooks, however I'
 11. [Confidence intervals](confidence_intervals.ipynb)
 12. [Significance tests (hypothesis testing)](significance_tests.ipynb)
 13. Two-sample inference for the difference between groups
-14. Inference for categorical data (chi-square tests)
+14. [Inference for categorical data (chi-square tests)](chi_squared_distribution.ipynb)
 15. Advanced regression (inference and transforming)
 16. Analysis of variance (ANOVA)
 
